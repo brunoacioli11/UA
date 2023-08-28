@@ -1,0 +1,17 @@
+registo
+login
+
+
+Menu
+Testes
+Agendar com o professor
+Rever os testes feitos
+Seçao para professor criar questoes
+Material de estudo
+
+classe de dados
+
+Persona: Maria Beatriz tem 23 anos, brasileira, nascida em Santa Bárbara - MG, atualmente reside em Portugal e tirou a licenciatura em Ciencias Biomedicas na Univerisdade de Aveiro. Após a conclusão, resolveu seguir o seu sonho de infância de se tornar médica, para isso  realizou o concurso especial para acesso ao curso de medicina da Universidade do Minho. Preocupada com a sua preparação para o PNA, ela precisa de uma plataforma integrada que facilite o seu estudo preparatório
+
+
+Cenario 1:
